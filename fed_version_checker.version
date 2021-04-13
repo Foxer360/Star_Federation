@@ -33,6 +33,6 @@
     {
         "major":8,
         "minor":0,
-        "patch": # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     }
 }
