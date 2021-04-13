@@ -31,8 +31,8 @@
     # If you use major.minor notation you can just leave patch as 0
     "modVersion":
     {
-        "major":7,
-        "minor":3,
-        "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "major":8,
+        "minor":0,
+        "patch": # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     }
 }
